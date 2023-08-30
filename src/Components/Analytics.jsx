@@ -22,7 +22,7 @@ const Analytics = () => {
             fuga maxime atque modi impedit qui quidem suscipit voluptates veniam
             sit!
           </p>
-          <button className=" bg-black mx-auto md:mx-0 text-[#00df9a] w-[200px] rounded-md font-medium my-6 py-3">
+          <button className=" bg-black mx-auto md:mx-0 text-[#00df9a] w-[200px] rounded-md font-medium my-6 py-3  hover:bg-gray-900 delay-150">
             Get Started
           </button>
         </div>
